@@ -4,10 +4,10 @@ Statistical software from the research group of
 [Zheyang Wu](https://users.wpi.edu/~zheyangwu/), Professor of Mathematical Sciences,
 Worcester Polytechnic Institute.
 
-## Statistics — combining dependent evidence
+## Statistics — combining evidence
 
 Methods for combining statistical evidence — many p-values, tests, or signals into one
-calibrated inference — serving meta-analysis and large-scale multiple testing across fields.
+calibrated inference — serving meta-analysis, data integration, and signal detection via global testing across fields. Support dependent and/or discrete data. 
 
 | Package | CRAN | What it does |
 |---|---|---|
@@ -21,13 +21,14 @@ calibrated inference — serving meta-analysis and large-scale multiple testing 
 
 | Repository | What it does |
 |---|---|
-| [GLOWr](https://github.com/ZWuLab/GLOWr) | GLOW methodology for integrative variant-set association analysis in whole-genome sequencing |
-| [GLOWpipeline](https://github.com/ZWuLab/GLOWpipeline) | Orchestration for genome-wide GLOW scans: chunking, SLURM arrays, aggregation |
+| [GLOWr](https://github.com/ZWuLab/GLOWr) | GLOW methodology for integrative variant-set association analysis in genome-wide association and/or whole-genome sequencing studies|
+| [GLOWpipeline](https://github.com/ZWuLab/GLOWpipeline) | Orchestration for genome-wide GLOW scans: chunking, SLURM arrays, aggregation, etc. |
 | [GLOWanalyses](https://github.com/ZWuLab/GLOWanalyses) | Runnable end-to-end workflow templates, configs, and batch scripts |
+
 
 ## Teaching tools
 
-Coming as they mature.
+Coming soon...
 
 ---
 
