@@ -4,7 +4,7 @@ Statistical software from the research group of
 [Zheyang Wu](https://users.wpi.edu/~zheyangwu/), Professor of Mathematical Sciences,
 Worcester Polytechnic Institute.
 
-## Statistics — combining evidence
+## Statistics — combining evidence and meta-analysis
 
 Methods for combining statistical evidence — many p-values, tests, or signals into one
 calibrated inference — serving meta-analysis, data integration, and signal detection via global testing across fields. Support dependent and/or discrete data. 
