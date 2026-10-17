@@ -4,7 +4,14 @@ Statistical software from the research group of
 [Zheyang Wu](https://users.wpi.edu/~zheyangwu/), Professor of Mathematical Sciences,
 Worcester Polytechnic Institute.
 
-## Statistics — combining evidence and meta-analysis
+## Statistics — Meta-analysis from five-number summaries
+
+| Package | CRAN | What it does |
+|---|---|---|
+| [osmoments](https://github.com/ZWuLab/osmoments) | TBA | Exact means, variances and covariances of order statistics in R |
+| [fivenumMeta](https://github.com/ZWuLab/fivenumMeta) | TBA | Five-number summaries in meta-analysis: imputed means and SDs with their standard errors (current version) |
+
+## Statistics — combining evidence
 
 Methods for combining statistical evidence — many p-values, tests, or signals into one
 calibrated inference — serving meta-analysis, data integration, and signal detection via global testing across fields. Support dependent and/or discrete data. 
@@ -17,7 +24,7 @@ calibrated inference — serving meta-analysis, data integration, and signal det
 | [Qapprox](https://github.com/ZWuLab/Qapprox) | [CRAN](https://cran.r-project.org/package=Qapprox) | Tail probabilities of quadratic forms of Gaussian variables |
 | [DPComb](https://github.com/ZWuLab/DPComb) | [CRAN](https://cran.r-project.org/package=DPComb) | Discrete p-value combination tests |
 
-## Genomics — the GLOW suite
+## Genomics — the GLOW (inteGrative anaLysis using Optimized Weights) suite
 
 | Repository | What it does |
 |---|---|
@@ -26,9 +33,9 @@ calibrated inference — serving meta-analysis, data integration, and signal det
 | [GLOWanalyses](https://github.com/ZWuLab/GLOWanalyses) | Runnable end-to-end workflow templates, configs, and batch scripts |
 
 
-## Teaching tools
+<!--## Teaching tools
 
-Coming soon...
+Coming soon...-->
 
 ---
 
