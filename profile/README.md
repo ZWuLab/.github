@@ -8,8 +8,8 @@ Worcester Polytechnic Institute.
 
 | Package | CRAN | What it does |
 |---|---|---|
-| [osmoments](https://github.com/ZWuLab/osmoments) | TBA | Exact means, variances and covariances of order statistics in R |
-| [fivenumMeta](https://github.com/ZWuLab/fivenumMeta) | TBA | Five-number summaries in meta-analysis: imputed means and SDs with their standard errors (current version) |
+| [orderStatMoments](https://github.com/ZWuLab/orderStatMoments) | TBA | Exact means, variances and covariances of order statistics in R |
+| [meta5number](https://github.com/ZWuLab/meta5number) | TBA | Five-number summaries in meta-analysis: imputed means and SDs with their standard errors (current version) |
 
 ## Statistics — combining evidence
 
