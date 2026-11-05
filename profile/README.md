@@ -4,6 +4,12 @@ Statistical software from the research group of
 [Zheyang Wu](https://users.wpi.edu/~zheyangwu/), Professor of Mathematical Sciences,
 Worcester Polytechnic Institute.
 
+## Statistics: exact tests controlling for confounders
+
+| Package | CRAN | What it does |
+|---|---|---|
+| [cfisher](https://github.com/ZWuLab/cfisher) | TBA | Fisher's exact test controlling for confounders: exact p-value, odds ratio estimate and confidence interval, returned like `fisher.test()` |
+
 ## Statistics — Meta-analysis from five-number summaries
 
 | Package | CRAN | What it does |
